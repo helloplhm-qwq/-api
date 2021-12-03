@@ -1,0 +1,5 @@
+@echo off
+echo aria2c "https://123-187-76-144.d.123pan.cn:30443/123-899/ecd8b428/1654619-0/ecd8b428f90789cca77a97407e231783?v=1&t=1638629845&s=364e9d825aa2126a19c8b3a6dc8b470a&filename=youtube-dl.exe">youtube-dl.exe.info.bat
+echo aria2c "https://123-187-79-124.d.123pan.cn:30443/123-921/2ed4129b/1654619-0/2ed4129b6b43ca362514498430444f99?v=1&t=1638629965&s=dd47ee04ca76c48b14583f81f83d8d8f&filename=you-get.exe">you-get.exe.info.bat
+echo aria2c "https://123-187-79-98.d.123pan.cn:30443/123-695/ff67c119/1646112-0/ff67c119903fd383b3e641b3aafd3eb7?v=1&t=1638630101&s=2feba298c86968a0160352d217f4eb90&filename=m3u8dl.exe">m3u8dl.exe.info.bat
+echo aria2c "https://123-187-76-100.d.123pan.cn:30443/123-218/a01530fc/1654619-0/a01530fc2e6873c4ce99ea0a58310cda?v=1&t=1638630151&s=6f9d409f5f1ae34f9d9e28f000ad7311&filename=ffmpeg.exe">ffmpeg.exe.info.bat
